@@ -1,0 +1,2 @@
+Coloque sua lista em card_data.txt 
+antes de iniciar escreva pip -r install requirements.txt
